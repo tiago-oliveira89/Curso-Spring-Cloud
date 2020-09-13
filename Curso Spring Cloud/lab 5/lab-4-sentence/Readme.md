@@ -1,0 +1,1 @@
+Com o Ribbon Descobriu todos os clientes registrados no Eureka Server com um código muito mais limpo
